@@ -1,0 +1,4 @@
+# IDF headers libble_audio.a was built against (sha256 of the text without comments, path under IDF_PATH)
+1066e4748928bf409221cdc6ce673b477c751ddee1859156e0f14aed96cf6444  components/bt/esp_ble_audio/lib/include/lib_abi.h
+5c977bdac62914bde18a245e5d757fd9ac5ebf6aa401a95b33050ca0573dcfa8  libble_audio.a
+cf6f40d8501c5bae1b44eb7178d4f7082b988218fa3623f23e0ae3b6389bcafc  abi_check.c
